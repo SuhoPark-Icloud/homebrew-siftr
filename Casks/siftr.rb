@@ -1,6 +1,6 @@
 cask "siftr" do
-  version "1.1.1"
-  sha256 "d468b2cbaf7fd2d2ed6cd03783c31de86d56e19b3b218d007dd5a6fb2975c90d"
+  version "1.2.0"
+  sha256 "6bda62a79231ea9b0aeb9d299b6331ba04531b0941a06e665eddda7ac096be0e"
 
   url "https://github.com/SuhoPark-Icloud/homebrew-siftr/releases/download/v#{version}/Siftr.dmg"
   name "Siftr"
